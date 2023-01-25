@@ -441,7 +441,6 @@ img{  mix-blend-mode:multiply;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
   margin: 3rem 0;
-    mix-blend-mode:multiply;
 
 }
 
@@ -450,6 +449,8 @@ img{  mix-blend-mode:multiply;
   -webkit-animation: fadeUp .6s linear;
           animation: fadeUp .4s linear;
             border-radius: 7%;
+    mix-blend-mode:multiply;
+
 
 
 }
